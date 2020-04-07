@@ -36,3 +36,5 @@ After cleaning the data I was not able to find any more real outliers or any oth
 ## Key Insights for Presentation
 
 After looking at the data I think the interesting correleations I found were between the gender, age range, user status, and monthly information. I have included the valuable visualizations in the powerpoint as well as the notebook.
+
+[Slideshow](https://hagopboz.github.io/Data-Analyst-Nano-Degree-Data-Visualization/explanatory_data_findings.slides.html#/)
